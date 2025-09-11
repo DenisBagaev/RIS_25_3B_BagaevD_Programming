@@ -33,5 +33,18 @@ Text2
 
 [Text2][Url]
 
+![img](https://i.pinimg.com/originals/66/d3/67/66d36796a9420c516466396bf88bc0f6.png "DADA")
+
 
 [Url]: https://www.youtube.com/
+
+```c
+print("Hello")
+```
+
+|da|DA|net|
+|--|--|---|
+|Net|da|DA|
+
+
+\ - эекранирование
