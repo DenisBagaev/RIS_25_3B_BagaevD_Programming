@@ -25,10 +25,13 @@ Text2
 * ;flkflgkdk
 * d;fgjdkflsdg
 - [x] dada
-- [ ] netnet 
+- [ ] netnet
+- [ ] 
 <https://www.youtube.com/>
-[Text1]([https://www.youtube.com/] "url")
-[Text2][url]
+
+[Text1](https://www.youtube.com/ "url")
+
+[Text2][Url]
 
 
-[url]: [https://www.youtube.com/]
+[Url]: https://www.youtube.com/
