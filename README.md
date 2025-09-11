@@ -10,3 +10,9 @@ Text2
 > Text6 >
 
 ***Text7***
+
+**Text8**
+
+*Text9*
+
+~Text10~
